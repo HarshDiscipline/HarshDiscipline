@@ -10,3 +10,4 @@
 HarshDiscipline/HarshDiscipline is a ✨ special(????) ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![stacecadet](https://github.com/HarshDiscipline/HarshDiscipline/assets/159744616/de045e9d-fd2a-415f-a686-35b48edbe6aa)
